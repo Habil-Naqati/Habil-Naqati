@@ -1,20 +1,20 @@
-### Hi there, I'm Habil-Naqati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
+### Hi there, I'm Habil Naqati, welcome to my personal Git profile.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Habil_Naqati?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHabil_Naqati&screen_name=HabilNaqati)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HabilNaqati?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHabilNaqati&screen_name=HabilNaqati)
 
 
-## I'm an Experienced Computer Science Engineer!!
+## I'm Experienced Computer Science Engineer Specialized in Polyglot Backend Development!
 
-- 🔭 I'm currently working on something very cool
-- 💬  Ask me about anything related to Java/Javascript/Python or Spring/Express/Flask
-- 🥅 2023 Goals: Learn more about A.I, Machine Learning
-- ⚡ Fun fact: I ❤️ Computers
+- 🌱 I've growing interest in Machine Learning
+- 💬 Ask me about anything related to java/javascript/python or spring/express/nest/flask/django
+- 🥅 2023 Goals: Building innovative solutions using Machine Learning
+- ⚡ Fun fact: I ❤️ to build innovative solutions that drive business success
 
 ### Connect with me:
 
 [![Youtube](./img/youtube-light.png)](https://youtube.com/@HabilNaqati)
 &nbsp;&nbsp;
-[![Twitter](./img/twitter-light.svg)](https://twitter.com/Habil_Naqati)
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/HabilNaqati)
 &nbsp;&nbsp;
 [![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/HabilNaqati)
 
@@ -69,8 +69,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="HabilNaqati's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Habil-Naqati&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="HabilNaqati's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HabilNaqati&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
-![](https://komarev.com/ghpvc/?username=Habil-Naqati&color=brightgreen&style=plastic&label=Eyeshot)
+![](https://komarev.com/ghpvc/?username=HabilNaqati&color=brightgreen&style=plastic&label=Eyeshot)
